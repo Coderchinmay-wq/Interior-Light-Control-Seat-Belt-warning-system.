@@ -139,6 +139,8 @@ dashboard_msg
 
 Signal Graph was used to visualize signal behavior over time.
 
+<img width="1902" height="776" alt="Signal Graph" src="https://github.com/user-attachments/assets/4b0baaca-9a57-4111-8a22-2300f0dac0f0" />
+
 This makes it possible to observe changes in vehicle signals during CAN communication and simulation.
 
 ---
